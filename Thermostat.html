@@ -2,19 +2,21 @@
 <html>
 <head>
 <title>Thermostat</title>
+<link rel="stylesheet" type="text/css" href="app/style.css">
 </head>
 <body>
+<div class="content">
 
 <h1>
 i want to see the current temperature here!!
 </h1>
 
     <increasebutton>
-      <button class="increaseBy" onclick="increase()">+</button>
+      <button class="square" onclick="increase()">+</button>
     </increasebutton>
 
     <decreasebutton>
-      <button class="decreaseBy" onclick="decrease()">-</button>
+      <button class="square" onclick="decrease()">-</button>
     </decreasebutton>
 
     <resetbutton>
@@ -27,7 +29,7 @@ i want to see the current temperature here!!
     <h2 id="temp"></h2>
     Enter your city:<input type="text" id="city">
     <button type="button" id="submit">Submit City</button>
-    
+</div>
 <script type="text/javascript" src="src/Thermostat.js"></script>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="JQapp.js"></script>
