@@ -63,6 +63,6 @@ I would like the thermostat display to show colored ui text based on energy usag
 
 To Run Locally
 ---
-* In your terminal cd into your preferred directory and
+* In your terminal, cd into your preferred directory and
 run git clone https://github.com/winnieau/Thermostat3.git
 * Then in your terminal run open Thermostat.html

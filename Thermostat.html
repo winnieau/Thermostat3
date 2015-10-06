@@ -6,28 +6,28 @@
 </head>
 <body>
 <div class="content">
-
 <h1>
-i want to see the current temperature here!!
+  Temperature here
 </h1>
 
     <increasebutton>
-      <button class="square" onclick="increase()">+</button>
+      <button class="temp_change" onclick="increase()">+</button>
     </increasebutton>
 
     <decreasebutton>
-      <button class="square" onclick="decrease()">-</button>
+      <button class="temp_change" onclick="decrease()">-</button>
     </decreasebutton>
-
+  <div>
     <resetbutton>
       <button class="reset" onclick="reset()">Reset</button>
     </resetbutton>
+  </div>
 
     <PSMbutton>
       Power Saving Mode:<input type="checkbox" onclick="psm()" checked>
     </PSMbutton>
     <h2 id="temp"></h2>
-    Enter your city:<input type="text" id="city">
+    Enter your city: <input type="text" id="city">
     <button type="button" id="submit">Submit City</button>
 </div>
 <script type="text/javascript" src="src/Thermostat.js"></script>

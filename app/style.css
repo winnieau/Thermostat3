@@ -5,6 +5,7 @@ body {
   font-size: 16px;
 }
 
+
 .content {
   text-align: center;
   margin: auto;
@@ -14,19 +15,39 @@ body {
   border-width: 4px;
   border-color: maroon;
   border-radius: 5px;
-  width: 50%; 
+  width: 50%;
   padding: 15px;
 }
-./*square {
-  width: 40px;
-  height: 40px;
+
+.temp_change:hover {
+  background-color: yellow;
+}
+
+.temp_change {
+  background-color: white;
+  width: 50px;
   font-size: 35px;
   vertical-align: middle;
   text-align: center;
-  padding: 2px;
-}*/
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.reset:hover {
+  background-color: yellow;
+}
+.reset {
+  background-color: white;
+  font-size: 20px;
+  vertical-align: middle;
+  text-align: center;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+
 h1 {
-  font-size: 50px; 
+  font-size: 100px;
 }
 h2 {
   color: #82f0ff;
