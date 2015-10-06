@@ -1,26 +1,36 @@
 body {
   text-align: center;
   margin: auto;
-  background-color: #FFFed1;
+  background-color: black;
   font-size: 16px;
 }
 
-
-.content {
+.thermostat {
   text-align: center;
-  margin: auto;
-  background-color: black;
+  margin: 0 auto;
+  background-color: #FFFFF3;
   color: white;
-  border-style: solid;
-  border-width: 4px;
-  border-color: maroon;
-  border-radius: 5px;
   width: 50%;
   padding: 15px;
+  border-radius: 10px;
+  border-color: #D3D3D3;
+}
+
+#display {
+  text-align: center;
+  font-size: 50px;
+  margin: 0 auto;
+  background-color: cornflowerblue;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 10px;
+  color: white;
+  width: 50%;
+  padding:20px;
 }
 
 .temp_change:hover {
-  background-color: yellow;
+  background-color: #D3D3D3;
 }
 
 .temp_change {
@@ -29,12 +39,15 @@ body {
   font-size: 35px;
   vertical-align: middle;
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+  margin-top: 90px;
+  width: 60px;
+  padding-bottom: 9px;
   border-radius: 5px;
 }
 
 .reset:hover {
-  background-color: yellow;
+  background-color: #D3D3D3;
 }
 .reset {
   background-color: white;
@@ -45,11 +58,7 @@ body {
   border-radius: 5px;
 }
 
-
-h1 {
-  font-size: 100px;
-}
 h2 {
-  color: #82f0ff;
+  color: black;
   font-size: 25px;
 }

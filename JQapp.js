@@ -1,8 +1,8 @@
 thermostat = new Thermostat;
 $(document).ready(function() {
   function value() {
-    $('h1').text(thermostat.temperature+"\u00B0C");
-    $('h1').css("color", function() {
+    $('#display').text(thermostat.temperature+"\u00B0C");
+    $('#display').css("color", function() {
       if (thermostat.temperature < 18) {
         return ("green");
       } else if (thermostat.temperature < 25) {
