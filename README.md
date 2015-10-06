@@ -1,5 +1,7 @@
 # Thermostat
 
+[![Thermostat Demo](https://gifs.com/watch?v=-19nqcbVJEU)](https://youtu.be/-19nqcbVJEU)
+
 Screenshot
 ---
 ![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
