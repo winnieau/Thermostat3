@@ -1,6 +1,6 @@
 # Thermostat
 
-[![Thermostat Demo](https://gifs.com/watch?v=-19nqcbVJEU)](https://youtu.be/-19nqcbVJEU)
+[![Thermostat Demo](https://gifs.com/gif/KdblgQ)](https://youtu.be/9LY_INbF_z8)
 
 Screenshot
 ---
