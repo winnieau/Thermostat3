@@ -80,7 +80,7 @@ To Run Locally
 * In your terminal, cd into your preferred directory and
 run git clone https://github.com/winnieau/Thermostat3.git
 * Then in your terminal run open Thermostat.html
-* 
+
 Screenshot
 ---
 ![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
