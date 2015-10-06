@@ -1,5 +1,9 @@
 # Thermostat
 
+Screenshot
+---
+![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
+
 Objective
 ---
 
@@ -69,10 +73,6 @@ Technologies Used
 * HTML
 * CSS
 
-
-Screenshot
----
-![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
 
 
 To Run Locally
