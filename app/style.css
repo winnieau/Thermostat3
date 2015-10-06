@@ -1,37 +1,48 @@
 body {
   text-align: center;
   margin: auto;
-  background-color: black;
+  background-color: gray;
   font-size: 16px;
+  font-family: 'Palatino', Verdana;
+}
+
+h1 {
+  font-size: 40px;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
 }
 
 .thermostat {
   text-align: center;
   margin: 0 auto;
   background-color: #FFFFF3;
-  color: white;
+  color: black;
   width: 50%;
   padding: 15px;
   border-radius: 10px;
   border-color: #D3D3D3;
+  box-shadow: 0 5px 0 #666, 0 5px 0 #444, 0 15px 15px rgba(0,0,0,0.6);
 }
 
 #display {
   text-align: center;
   font-size: 50px;
   margin: 0 auto;
+  margin-top: 20px;
   background-color: cornflowerblue;
   border-style: solid;
   border-color: gray;
   border-radius: 10px;
-  color: white;
+  color: black;
   width: 50%;
-  padding:20px;
+  padding:15px;
+  box-shadow: 0 3px 0 gray, 0 -2px 0 gray, 0 -2px 5px rgba(0,0,0,0.6)
+
 }
 
 .temp_change:hover {
   background-color: #D3D3D3;
 }
+
 
 .temp_change {
   background-color: white;
@@ -40,10 +51,11 @@ body {
   vertical-align: middle;
   text-align: center;
   margin-bottom: 20px;
-  margin-top: 90px;
+  margin-top: 80px;
   width: 60px;
   padding-bottom: 9px;
   border-radius: 5px;
+  box-shadow: 0 1px 0 #666, 0 3px 0 #444, 0 6px 6px rgba(0,0,0,0.6);
 }
 
 .reset:hover {
@@ -56,9 +68,24 @@ body {
   text-align: center;
   padding: 4px;
   border-radius: 5px;
+  margin-bottom: 15px;
+  box-shadow: 0 1px 0 #666, 0 3px 0 #444, 0 6px 6px rgba(0,0,0,0.6);
 }
 
 h2 {
   color: black;
   font-size: 25px;
+}
+
+#submit:hover {
+  background-color: #D3D3D3;
+}
+
+#submit {
+  background-color: white;
+  border-radius: 5px;
+}
+
+PSMbutton {
+  font-size: 20px;
 }
