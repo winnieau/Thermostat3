@@ -20,14 +20,43 @@ Specification
 
 ### User stories
 ```
-As a thermostat user i would like to see the current temperature setting.
-As a user i would like to see an increase button.
-As a user i would like to see a decrease button.
-As a user i would like to see a reset button.
-As a user i would like to see a power saving mode indicator.
-As a user i would like to increase the temperature.
-As a user i would like to decrease the temperature.
-As a user i would like to reset the temperature setting.
-As a user i would like to be able to set on/off the power saving mode.
-As a user i would like to see colored ui text based on energy usage.
+As a thermostat user
+So that I can know how hot or cold it is
+I would like to see the current temperature setting.
+
+As a user
+So that I have an interactive display
+I would like to see an increase button.
+
+As a user
+So that I have an interactive display
+I would like to see a decrease button.
+
+As a user
+So that I can have an interactive display
+I would like to see a reset button.
+
+As a user
+So that I can see if the thermostat is on power saving mode
+I would like to see a power saving mode indicator.
+
+As a user
+So that I can raise the temperature
+I would like a button to increase the temperature incrementally by 1.
+
+As a user
+So that I can lower the temperature
+I would like a button to decrease the temperature incrementally by 1.
+
+As a user
+So that I can reset the temperature
+I would like a reset button to return the temperature to the thermostat's default setting
+
+As a user
+So that I can turn power saving mode on/off
+I would like a button which controls the power saving mode status
+
+As a user
+So that I can see my current energy usage
+I would like the thermostat display to show colored ui text based on energy usage.
 ```
