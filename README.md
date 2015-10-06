@@ -2,6 +2,8 @@
 
 [![Thermostat Demo](https://j.gifs.com/vWedR6.gif)](https://youtu.be/9LY_INbF_z8)
 
+Click on the gif to link you to a more complete youtube video demo.
+
 Screenshot
 ---
 ![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
