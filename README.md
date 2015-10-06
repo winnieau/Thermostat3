@@ -60,3 +60,9 @@ As a user
 So that I can see my current energy usage
 I would like the thermostat display to show colored ui text based on energy usage.
 ```
+
+To Run Locally
+---
+* In your terminal cd into your preferred directory and
+run git clone https://github.com/winnieau/Thermostat3.git
+* Then in your terminal run open Thermostat.html
