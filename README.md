@@ -72,6 +72,7 @@ Technologies Used
 * Jasmine
 * HTML
 * CSS
+* Atom
 
 
 
