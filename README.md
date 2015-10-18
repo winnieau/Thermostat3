@@ -85,3 +85,13 @@ run git clone https://github.com/winnieau/Thermostat3.git
 Screenshot
 ---
 ![alt text](https://github.com/winnieau/Thermostat3/blob/master/thermostat.png)
+
+Others who contributed to this repository: 
+
+[Parminder Sanghera](https://github.com/ajitsy)
+[Josh Tatterton](https://github.com/JoshuaTatterton)
+[Richard Charman](https://github.com/RichardCharman)
+[Balint Nemes](https://github.com/squarebe)
+
+
+
