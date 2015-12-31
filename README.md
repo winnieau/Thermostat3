@@ -7,7 +7,7 @@ Click on the gif to link you to a more complete youtube video demo.
 Objective
 ---
 
-Create a simple digital thermostat, using JavaScript, test-driven with Jasmine and using jQuery to interact with the HTML page.
+Create a simple digital thermostat using JavaScript, test-driven with Jasmine and using jQuery to interact with the HTML page.
 
 Specification
 ---
