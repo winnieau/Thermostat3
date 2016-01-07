@@ -2,7 +2,7 @@
 
 [![Thermostat Demo](https://j.gifs.com/vWedR6.gif)](https://www.youtube.com/watch?v=-19nqcbVJEU)
 
-Click on the gif to link you to a more complete youtube video demo.
+Click on the gif to link you to a more complete YouTube video demo.
 
 Objective
 ---
